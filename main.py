@@ -14,6 +14,7 @@ import sys
 import os
 import re
 from serial import *
+from serial import serial
 
 # ports = serial.tools.list_ports.comports()
 
